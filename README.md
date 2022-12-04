@@ -10,12 +10,14 @@ YOLOv3-tiny: https://github.com/pjreddie/darknet (original source code) and http
 A YOLOv3-tiny model pre-trained on COCO 2014 dataset is used. It can recognize 80 object categories.
 
 MIT Indoor 67 dataset is used for training the SVM scene recognition model. A feature vector containing the object frequency for each image in scene dataset is obtained for scene classification using SVM.
+
 <img src="/images/uml2.jpg" width=50% height=50%>
 
 
 Improvement Made According to the Feedback
 --------------
 Object Position Notification
+
 <img src="/images/Position.png" width=50% height=50%>
 
 
@@ -38,5 +40,5 @@ Pre-requisites
 
 Screenshots
 -----------
-<img src="/imagesScreenshot_20190405-022149_Yolo.jpg" width=50% height=50%>
+<img src="/images/Screenshot_20190405-022149_Yolo.jpg" width=50% height=50%>
 
