@@ -1,0 +1,3 @@
+D:/Android/HelloJNI/yolo_t1/app/.externalNativeBuild/cmake/x86Debug/x86/CMakeFiles/hello-jni.dir
+D:/Android/HelloJNI/yolo_t1/app/.externalNativeBuild/cmake/x86Debug/x86/CMakeFiles/edit_cache.dir
+D:/Android/HelloJNI/yolo_t1/app/.externalNativeBuild/cmake/x86Debug/x86/CMakeFiles/rebuild_cache.dir

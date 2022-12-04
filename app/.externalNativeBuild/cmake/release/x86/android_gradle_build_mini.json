@@ -1,0 +1,18 @@
+{
+  "buildFiles": [
+    "C:\\Users\\User\\Downloads\\android-ndk-r19c-windows-x86_64\\android-ndk-r19c\\build\\cmake\\android.toolchain.cmake",
+    "C:\\Users\\User\\Downloads\\android-ndk-r19c-windows-x86_64\\android-ndk-r19c\\build\\cmake\\platforms.cmake",
+    "C:\\Users\\User\\Desktop\\FYP\\program_codes\\yolo_t1\\app\\src\\main\\cpp\\CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "C:\\Users\\User\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\cmake.exe --build C:\\Users\\User\\Desktop\\FYP\\program_codes\\yolo_t1\\app\\.externalNativeBuild\\cmake\\release\\x86 --target clean"
+  ],
+  "libraries": {
+    "darknetlib-Release-x86": {
+      "artifactName": "darknetlib",
+      "buildCommand": "C:\\Users\\User\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\cmake.exe --build C:\\Users\\User\\Desktop\\FYP\\program_codes\\yolo_t1\\app\\.externalNativeBuild\\cmake\\release\\x86 --target darknetlib",
+      "abi": "x86",
+      "output": "C:\\Users\\User\\Desktop\\FYP\\program_codes\\yolo_t1\\app\\build\\intermediates\\cmake\\release\\obj\\x86\\libdarknetlib.so"
+    }
+  }
+}

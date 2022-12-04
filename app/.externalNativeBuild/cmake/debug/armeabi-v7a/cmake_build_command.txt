@@ -1,0 +1,21 @@
+Executable : C:\Users\User\AppData\Local\Android\Sdk\cmake\3.10.2.4988404\bin\cmake.exe
+arguments : 
+-HC:\Users\User\Desktop\FYP\program_codes\yolo_t1\app\src\main\cpp
+-BC:\Users\User\Desktop\FYP\program_codes\yolo_t1\app\.externalNativeBuild\cmake\debug\armeabi-v7a
+-DANDROID_ABI=armeabi-v7a
+-DANDROID_PLATFORM=android-23
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=C:\Users\User\Desktop\FYP\program_codes\yolo_t1\app\build\intermediates\cmake\debug\obj\armeabi-v7a
+-DCMAKE_BUILD_TYPE=Release
+-DANDROID_NDK=C:\Users\User\Downloads\android-ndk-r19c-windows-x86_64\android-ndk-r19c
+-DCMAKE_C_FLAGS=-std=c99  -DOMP_NUM_THREADS=8
+-DCMAKE_CXX_FLAGS=-std=c++11 -frtti -fexceptions 
+-DCMAKE_SYSTEM_NAME=Android
+-DCMAKE_ANDROID_ARCH_ABI=armeabi-v7a
+-DCMAKE_SYSTEM_VERSION=23
+-DCMAKE_EXPORT_COMPILE_COMMANDS=ON
+-DCMAKE_ANDROID_NDK=C:\Users\User\Downloads\android-ndk-r19c-windows-x86_64\android-ndk-r19c
+-DCMAKE_TOOLCHAIN_FILE=C:\Users\User\Downloads\android-ndk-r19c-windows-x86_64\android-ndk-r19c\build\cmake\android.toolchain.cmake
+-G Ninja
+-DCMAKE_MAKE_PROGRAM=C:\Users\User\AppData\Local\Android\Sdk\cmake\3.10.2.4988404\bin\ninja.exe
+jvmArgs : 
+

@@ -1,0 +1,7 @@
+[
+{
+  "directory": "D:/Android/HelloJNI/yolo_t1/app/.externalNativeBuild/cmake/arm7Debug/armeabi-v7a",
+  "command": "C:\\Users\\OWNER\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=armv7-none-linux-androideabi23 --gcc-toolchain=C:/Users/OWNER/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64 -Dhello_jni_EXPORTS  --sysroot C:/Users/OWNER/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mfpu=vfpv3-d16 -fno-addrsig -mthumb -mfpu=neon -Wa,--noexecstack -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles\\hello-jni.dir\\hello-jni.c.o   -c D:\\Android\\HelloJNI\\yolo_t1\\app\\src\\main\\cpp\\hello-jni.c",
+  "file": "D:\\Android\\HelloJNI\\yolo_t1\\app\\src\\main\\cpp\\hello-jni.c"
+}
+]

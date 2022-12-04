@@ -1,0 +1,3 @@
+C:/Users/User/Desktop/FYP/program_codes/yolo_t1/app/.externalNativeBuild/cmake/debug/x86_64/CMakeFiles/darknetlib.dir
+C:/Users/User/Desktop/FYP/program_codes/yolo_t1/app/.externalNativeBuild/cmake/debug/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/User/Desktop/FYP/program_codes/yolo_t1/app/.externalNativeBuild/cmake/debug/x86_64/CMakeFiles/rebuild_cache.dir

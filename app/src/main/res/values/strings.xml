@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Yolo</string>
+    <string name="action_settings">Settings</string>
+    <string name="capture">capture</string>
+    <string name="analyse">analyse</string>
+    <string name="exactres">asset</string>
+    <string name="selectimg" >select</string>
+    <string name="tip_start">Please Copy the Asset First</string>
+    <string name="contactme">about</string>
+    <string name="captureText">capture</string>
+</resources>

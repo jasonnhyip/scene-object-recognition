@@ -1,0 +1,40 @@
+{
+  "stringTable": {
+    "0": "D:/Android/HelloJNI/yolo_t1/app/.externalNativeBuild/cmake/x86_64Debug/x86_64",
+    "1": "--target=x86_64-none-linux-android23 --gcc-toolchain=C:/Users/OWNER/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64 -Dhello_jni_EXPORTS --sysroot C:/Users/OWNER/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security -O0 -fno-limit-debug-info -fPIC"
+  },
+  "buildFiles": [
+    "C:\\Users\\OWNER\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\build\\cmake\\platforms.cmake",
+    "C:\\Users\\OWNER\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\build\\cmake\\android.toolchain.cmake",
+    "D:\\Android\\HelloJNI\\yolo_t1\\app\\src\\main\\cpp\\CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "C:\\Users\\OWNER\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\cmake.exe --build D:\\Android\\HelloJNI\\yolo_t1\\app\\.externalNativeBuild\\cmake\\x86_64Debug\\x86_64 --target clean"
+  ],
+  "libraries": {
+    "hello-jni-Debug-x86_64": {
+      "buildCommand": "C:\\Users\\OWNER\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\cmake.exe --build D:\\Android\\HelloJNI\\yolo_t1\\app\\.externalNativeBuild\\cmake\\x86_64Debug\\x86_64 --target hello-jni",
+      "buildType": "debug",
+      "toolchain": "1203886676",
+      "abi": "x86_64",
+      "artifactName": "hello-jni",
+      "files": [
+        {
+          "src": "D:\\Android\\HelloJNI\\yolo_t1\\app\\src\\main\\cpp\\hello-jni.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "output": "D:\\Android\\HelloJNI\\yolo_t1\\app\\build\\intermediates\\cmake\\x86_64\\debug\\obj\\x86_64\\libhello-jni.so"
+    }
+  },
+  "toolchains": {
+    "1203886676": {
+      "cCompilerExecutable": "C:\\Users\\OWNER\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe"
+    }
+  },
+  "cFileExtensions": [
+    "c"
+  ],
+  "cppFileExtensions": []
+}

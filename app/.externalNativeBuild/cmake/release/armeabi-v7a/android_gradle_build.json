@@ -1,0 +1,265 @@
+{
+  "stringTable": {
+    "0": "C:/Users/User/Desktop/FYP/program_codes/yolo_t1/app/.externalNativeBuild/cmake/release/armeabi-v7a",
+    "1": "--target=armv7-none-linux-androideabi23 --gcc-toolchain=C:/Users/User/Downloads/android-ndk-r19c-windows-x86_64/android-ndk-r19c/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/User/Downloads/android-ndk-r19c-windows-x86_64/android-ndk-r19c/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Ddarknetlib_EXPORTS -IC:/Users/User/Desktop/FYP/program_codes/yolo_t1/app/src/main/cpp/darknet/src -IC:/Users/User/Desktop/FYP/program_codes/yolo_t1/app/src/main/cpp/darknet/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mfpu=vfpv3-d16 -fno-addrsig -march=armv7-a -mthumb -mfpu=neon -Wa,--noexecstack -Wformat -Werror=format-security -std=c99 -DOMP_NUM_THREADS=8 -Wall -Wno-unknown-pragmas -Wfatal-errors -fPIC -O3 -fstrict-aliasing -fexceptions -Dlinux -fsigned-char -Oz -DNDEBUG -fPIC"
+  },
+  "buildFiles": [
+    "C:\\Users\\User\\Downloads\\android-ndk-r19c-windows-x86_64\\android-ndk-r19c\\build\\cmake\\android.toolchain.cmake",
+    "C:\\Users\\User\\Downloads\\android-ndk-r19c-windows-x86_64\\android-ndk-r19c\\build\\cmake\\platforms.cmake",
+    "C:\\Users\\User\\Desktop\\FYP\\program_codes\\yolo_t1\\app\\src\\main\\cpp\\CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "C:\\Users\\User\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\cmake.exe --build C:\\Users\\User\\Desktop\\FYP\\program_codes\\yolo_t1\\app\\.externalNativeBuild\\cmake\\release\\armeabi-v7a --target clean"
+  ],
+  "libraries": {
+    "darknetlib-Release-armeabi-v7a": {
+      "buildCommand": "C:\\Users\\User\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\cmake.exe --build C:\\Users\\User\\Desktop\\FYP\\program_codes\\yolo_t1\\app\\.externalNativeBuild\\cmake\\release\\armeabi-v7a --target darknetlib",
+      "buildType": "release",
+      "toolchain": "264623468",
+      "abi": "armeabi-v7a",
+      "artifactName": "darknetlib",
+      "files": [
+        {
+          "src": "C:\\Users\\User\\Desktop\\FYP\\program_codes\\yolo_t1\\app\\src\\main\\cpp\\darknetlib.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\User\\Desktop\\FYP\\program_codes\\yolo_t1\\app\\src\\main\\cpp\\darknet\\src\\activation_layer.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\User\\Desktop\\FYP\\program_codes\\yolo_t1\\app\\src\\main\\cpp\\darknet\\src\\activations.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\User\\Desktop\\FYP\\program_codes\\yolo_t1\\app\\src\\main\\cpp\\darknet\\src\\avgpool_layer.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\User\\Desktop\\FYP\\program_codes\\yolo_t1\\app\\src\\main\\cpp\\darknet\\src\\batchnorm_layer.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\User\\Desktop\\FYP\\program_codes\\yolo_t1\\app\\src\\main\\cpp\\darknet\\src\\blas.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\User\\Desktop\\FYP\\program_codes\\yolo_t1\\app\\src\\main\\cpp\\darknet\\src\\box.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\User\\Desktop\\FYP\\program_codes\\yolo_t1\\app\\src\\main\\cpp\\darknet\\src\\col2im.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\User\\Desktop\\FYP\\program_codes\\yolo_t1\\app\\src\\main\\cpp\\darknet\\src\\connected_layer.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\User\\Desktop\\FYP\\program_codes\\yolo_t1\\app\\src\\main\\cpp\\darknet\\src\\convolutional_layer.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\User\\Desktop\\FYP\\program_codes\\yolo_t1\\app\\src\\main\\cpp\\darknet\\src\\cost_layer.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\User\\Desktop\\FYP\\program_codes\\yolo_t1\\app\\src\\main\\cpp\\darknet\\src\\crnn_layer.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\User\\Desktop\\FYP\\program_codes\\yolo_t1\\app\\src\\main\\cpp\\darknet\\src\\crop_layer.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\User\\Desktop\\FYP\\program_codes\\yolo_t1\\app\\src\\main\\cpp\\darknet\\src\\cuda.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\User\\Desktop\\FYP\\program_codes\\yolo_t1\\app\\src\\main\\cpp\\darknet\\src\\data.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\User\\Desktop\\FYP\\program_codes\\yolo_t1\\app\\src\\main\\cpp\\darknet\\src\\deconvolutional_layer.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\User\\Desktop\\FYP\\program_codes\\yolo_t1\\app\\src\\main\\cpp\\darknet\\src\\demo.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\User\\Desktop\\FYP\\program_codes\\yolo_t1\\app\\src\\main\\cpp\\darknet\\src\\detection_layer.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\User\\Desktop\\FYP\\program_codes\\yolo_t1\\app\\src\\main\\cpp\\darknet\\src\\dropout_layer.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\User\\Desktop\\FYP\\program_codes\\yolo_t1\\app\\src\\main\\cpp\\darknet\\src\\gemm.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\User\\Desktop\\FYP\\program_codes\\yolo_t1\\app\\src\\main\\cpp\\darknet\\src\\gru_layer.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\User\\Desktop\\FYP\\program_codes\\yolo_t1\\app\\src\\main\\cpp\\darknet\\src\\im2col.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\User\\Desktop\\FYP\\program_codes\\yolo_t1\\app\\src\\main\\cpp\\darknet\\src\\image.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\User\\Desktop\\FYP\\program_codes\\yolo_t1\\app\\src\\main\\cpp\\darknet\\src\\iseg_layer.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\User\\Desktop\\FYP\\program_codes\\yolo_t1\\app\\src\\main\\cpp\\darknet\\src\\l2norm_layer.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\User\\Desktop\\FYP\\program_codes\\yolo_t1\\app\\src\\main\\cpp\\darknet\\src\\layer.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\User\\Desktop\\FYP\\program_codes\\yolo_t1\\app\\src\\main\\cpp\\darknet\\src\\list.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\User\\Desktop\\FYP\\program_codes\\yolo_t1\\app\\src\\main\\cpp\\darknet\\src\\local_layer.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\User\\Desktop\\FYP\\program_codes\\yolo_t1\\app\\src\\main\\cpp\\darknet\\src\\logistic_layer.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\User\\Desktop\\FYP\\program_codes\\yolo_t1\\app\\src\\main\\cpp\\darknet\\src\\lstm_layer.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\User\\Desktop\\FYP\\program_codes\\yolo_t1\\app\\src\\main\\cpp\\darknet\\src\\matrix.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\User\\Desktop\\FYP\\program_codes\\yolo_t1\\app\\src\\main\\cpp\\darknet\\src\\maxpool_layer.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\User\\Desktop\\FYP\\program_codes\\yolo_t1\\app\\src\\main\\cpp\\darknet\\src\\network.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\User\\Desktop\\FYP\\program_codes\\yolo_t1\\app\\src\\main\\cpp\\darknet\\src\\normalization_layer.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\User\\Desktop\\FYP\\program_codes\\yolo_t1\\app\\src\\main\\cpp\\darknet\\src\\option_list.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\User\\Desktop\\FYP\\program_codes\\yolo_t1\\app\\src\\main\\cpp\\darknet\\src\\parser.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\User\\Desktop\\FYP\\program_codes\\yolo_t1\\app\\src\\main\\cpp\\darknet\\src\\region_layer.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\User\\Desktop\\FYP\\program_codes\\yolo_t1\\app\\src\\main\\cpp\\darknet\\src\\reorg_layer.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\User\\Desktop\\FYP\\program_codes\\yolo_t1\\app\\src\\main\\cpp\\darknet\\src\\rnn_layer.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\User\\Desktop\\FYP\\program_codes\\yolo_t1\\app\\src\\main\\cpp\\darknet\\src\\route_layer.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\User\\Desktop\\FYP\\program_codes\\yolo_t1\\app\\src\\main\\cpp\\darknet\\src\\shortcut_layer.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\User\\Desktop\\FYP\\program_codes\\yolo_t1\\app\\src\\main\\cpp\\darknet\\src\\softmax_layer.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\User\\Desktop\\FYP\\program_codes\\yolo_t1\\app\\src\\main\\cpp\\darknet\\src\\tree.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\User\\Desktop\\FYP\\program_codes\\yolo_t1\\app\\src\\main\\cpp\\darknet\\src\\upsample_layer.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\User\\Desktop\\FYP\\program_codes\\yolo_t1\\app\\src\\main\\cpp\\darknet\\src\\utils.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\User\\Desktop\\FYP\\program_codes\\yolo_t1\\app\\src\\main\\cpp\\darknet\\src\\yolo_layer.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "output": "C:\\Users\\User\\Desktop\\FYP\\program_codes\\yolo_t1\\app\\build\\intermediates\\cmake\\release\\obj\\armeabi-v7a\\libdarknetlib.so"
+    }
+  },
+  "toolchains": {
+    "264623468": {
+      "cCompilerExecutable": "C:\\Users\\User\\Downloads\\android-ndk-r19c-windows-x86_64\\android-ndk-r19c\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe"
+    }
+  },
+  "cFileExtensions": [
+    "c"
+  ],
+  "cppFileExtensions": []
+}
